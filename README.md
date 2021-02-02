@@ -1,5 +1,5 @@
 # ne-aly-6140-capstone
-Group 1 capstone project for NE ALY 6140
+capstone project for NE ALY 6140
 
 ## Dataset Selected
 ## LA Metro Bike Share
@@ -35,11 +35,5 @@ Group 1 capstone project for NE ALY 6140
     - Use Decision Tree classifier to predict the passholder type
 ### 9.	Conclusion
 
-> We need to create a .py file also where we will define all the functions and call them to get the output.
+> Created a .py file also where we will define all the functions and call them to get the output.
 
-### Participants
-* Ronak
-* Zara
-* Dhruvin
-* Sagar
-* Saju Chacko Rajan
